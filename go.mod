@@ -1,4 +1,4 @@
-module https://github.com/call-me-suman/go-reverse-proxy
+module github.com/call-me-suman/go-reverse-proxy
 
 go 1.24.3
 
